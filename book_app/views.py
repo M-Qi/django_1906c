@@ -6,5 +6,5 @@ from django.http import HttpResponse, request
 def index(request):
     return HttpResponse('index')
 
-def reg():
+def regester():
     pass
